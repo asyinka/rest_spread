@@ -1,0 +1,2 @@
+While resembling the spread operator, rest paarameter allows us call a function and execute elements in the function as an array. Rest parameter help us render arguments of a function as an array.
+Spread Operator simply help us expand iterables.
